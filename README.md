@@ -27,6 +27,9 @@ branch, then all of your work on different branches can be merged into the same 
 - Please do not push the original DTI data or other large files. The remote repository should only contain your team code and
 report notebook.
   
+- Please do not directly push any commits into `master` branch. The master should keep clean and all changes should be
+merged by submitting PR.
+  
 
 
 
